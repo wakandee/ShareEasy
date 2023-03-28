@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/drawable/ic_photo_camera.xml" value="0.1" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/font/acme.xml" value="0.6714285714285714" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_change_password.xml" value="0.15648148148148147" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_home.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_list_products.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_list_services.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_login.xml" value="0.1521511017838405" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_main.xml" value="0.11949685534591195" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_register.xml" value="0.1798994974874372" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_request_permission.xml" value="0.1" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/app_bar_main.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/choose_product_fragment.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/choose_service.xml" value="0.1796875" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/choose_servicesss.xml" value="0.1796875" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/content_main.xml" value="0.1292517006802721" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/dropdown_menu_popup_item.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_about.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_choose.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_donated_items.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_gallery.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_home.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_info.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_institution.xml" value="0.1" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_location.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_logout.xml" value="0.1" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_notification.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_products.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_profile.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_services.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/fragment_slideshow.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/listview.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/nav_header_main.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/review_fragment.xml" value="0.24229979466119098" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/setup_account_fragment.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/single_item.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/single_item_layout.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/single_select_item.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/layout/text_row_item.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/menu/activity_main_drawer.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/menu/main.xml" value="0.184375" />
+        <entry key="..\:/Users/koech/AndroidStudioProjects/ShareEasy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
